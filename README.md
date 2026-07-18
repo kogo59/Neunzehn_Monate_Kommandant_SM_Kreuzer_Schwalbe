@@ -1,6 +1,6 @@
 # Neunzehn Monate Kommandant S.M. Kreuzer Schwalbe
 
-<img align="right" height="300" src="https://github.com/kogo59/Reisen_in_Central-Amerika/blob/main/images/cover.jpg">
+<img align="right" height="300" src="https://github.com/kogo59/Neunzehn_Monate_Kommandant_SM_Kreuzer_Schwalbe/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Neunzehn Monate Kommandant S.M. Kreuzer Schwalbe".
 
