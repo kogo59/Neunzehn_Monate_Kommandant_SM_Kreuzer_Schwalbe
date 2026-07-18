@@ -34,7 +34,7 @@ Gleich den nächsten Tag wurde die Besatzung eingeschifft und am 12. war die
 Indienststellung.
 
 :::: {.wrap-60 .align-center .caption}
-![S. M. Kreuzer „Schwalbe“ vor der Ausreise aus Kiel.](Schwalbe_002c.jpg "S. M. Kreuzer „Schwalbe“ vor der Ausreise aus Kiel."){#b000}
+![S. M. Kreuzer „Schwalbe“ vor der Ausreise aus Kiel.](Schwalbe_002c.jpg "S. M. Kreuzer „Schwalbe“ vor der Ausreise aus Kiel."){#b002}
 ::::
 
 Am 14. fuhr ich nach Berlin zur Meldung bei Seiner Majestät dem Kaiser. Ankunft
