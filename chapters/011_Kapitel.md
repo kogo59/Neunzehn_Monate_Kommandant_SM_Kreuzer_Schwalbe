@@ -251,7 +251,7 @@ Gute Nacht und deckt Euch gut zu.
 
 :::
 
-## Mittwoch, den 27. Februar 1889.
+## <small>Mittwoch, den 27. Februar 1889.</small>
 
 ::: justified 
 
