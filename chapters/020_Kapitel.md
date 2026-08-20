@@ -518,7 +518,7 @@ Urlaub, theils um Kiel zu repariren, „Carola“ nach Aden, der Admiral mit der
 „Leipzig“ wahrscheinlich nach Kapstadt.
 
 :::: {.wrap-80 .align-center .caption}
-![&nbsp;](Schwalbe_122c.jpg ""){#b1118}
+![&nbsp;](Schwalbe_122c.jpg ""){#b118}
 ::::
 
 Direkt nach dem Gefecht verließ ich Tanga, nahm in Zanzibar Kohlen und Wasser

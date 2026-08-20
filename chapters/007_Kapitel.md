@@ -70,7 +70,7 @@ es. In dem verrufenen Rothen Meer war's ja, Dank der Jahreszeit, erträglich bis
 auf die letzten beiden Tage.
 :::
 
-## <small>Den 29. Dezember.</small>
+# <small>Den 29. Dezember.</small>
 
 ::: justified
 

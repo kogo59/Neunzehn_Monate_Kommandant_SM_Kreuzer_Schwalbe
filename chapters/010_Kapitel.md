@@ -123,8 +123,11 @@ Verluste schließen.
 Die Waniamwesi hatten 3 Todte und 7 Verwundete, welch' Letztere Dr. Arendt von
 der „Schwalbe“ in Behandlung nahm.
 
+:::
 
-## <small>Sonnabend, den 2. Februar 1889.</small>
+# <small>Sonnabend, den 2. Februar 1889.</small>
+
+::: justified
 
 Ihr scheint Euch zu sorgen wegen blutdürstiger Araber und wegen des Klimas. Nun
 Gott sei Dank bin ich am Leben und zwar sehr gesund. Die Depeschen über unsere

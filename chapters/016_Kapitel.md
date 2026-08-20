@@ -162,7 +162,7 @@ sollen aber einen neuen Italiener bekommen.
 :::
 
 
-## <small>20. April 1889, Sonnabend vor Ostern.</small>
+# <small>20. April 1889, Sonnabend vor Ostern.</small>
 
 ::: justified
 

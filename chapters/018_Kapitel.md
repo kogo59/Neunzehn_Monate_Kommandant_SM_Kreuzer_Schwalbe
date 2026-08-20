@@ -767,7 +767,7 @@ Geburtstag, mußte ich ihn nach Zanzibar in's Lazareth bringen.
 :::
 
 
-## <small>Freitag, den 31. Mai 1889.</small>
+# <small>Freitag, den 31. Mai 1889.</small>
 
 :::: justified
 

@@ -11,7 +11,7 @@ Um ½5 Uhr habe ich hier bei Kokotoni geankert. Ordre: „Feuer aus.“ Wie lang
 
 :::
 
-## <small>Donnerstag, den 25. April.</small>
+# <small>Donnerstag, den 25. April.</small>
 
 ::: justified
 
@@ -21,7 +21,7 @@ u. s. w. Jetzt wird's dunkel und wir haben noch keine Kontre-Ordre.
 
 :::
 
-## <small>Donnerstag, den 30. April.</small>
+# <small>Donnerstag, den 30. April.</small>
 
 ::: justified
 
