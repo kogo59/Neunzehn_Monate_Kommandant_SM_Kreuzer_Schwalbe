@@ -198,8 +198,7 @@ können, sowie mit Bug- und Heck-Anker verankert.
 
 Nachdem ich vom Admiral meine Befehle empfangen und meine Ordres ausgegeben
 hatte, setzten wir mit den Booten ab, die Dampfpinnassen, mit Revolverkanonen
-armirt, vorweg, die anderen Boote im Schlepptau.
-
+armirt, vorweg, die anderen Boote im Schlepptau.<br /><br />
 :::
 
 
@@ -287,6 +286,7 @@ Oberstabsarzt Dr. Groppe.
 | 1 Trage.              | 2 Tragen                | 2 Tragen.            |
 
 
+<br /><br />
 ::: justified
 
 Die auf der Karte mit 4 bezeichnete Stelle, wo Sandstrand und meist

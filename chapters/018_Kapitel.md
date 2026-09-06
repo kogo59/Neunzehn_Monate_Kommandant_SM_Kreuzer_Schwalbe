@@ -193,7 +193,7 @@ europäischen machen den Frontangriff und das Lager ist unser.“
 Ich erklärte mich mit dem Plan einverstanden und fuhr auf das Flaggschiff, um
 dem Admiral Meldung zu machen.
 
-Nachstehend die für den nächsten Tag, den 8. Mai 1889, ausgegebene Ordre: 
+Nachstehend die für den nächsten Tag, den 8. Mai 1889, ausgegebene Ordre:<br /><br /> 
 
 
 :::: { .fs-xl .align-center }
@@ -255,7 +255,7 @@ Stabsarzt Dr. Weiß.<br />
 
 :::: align-center
 *F. Bootswache.*<br />
-[Lieut. z. S. Elvers.]{.fs-s}
+[Lieut. z. S. Elvers.]{.fs-s}<br /><br />
 ::::
 
 Erst um 12 Uhr Nachts kehrte ich von der „Leipzig“ an Bord der „Schwalbe“ zurück
