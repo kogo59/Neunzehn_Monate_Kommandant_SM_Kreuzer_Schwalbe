@@ -199,6 +199,7 @@ können, sowie mit Bug- und Heck-Anker verankert.
 Nachdem ich vom Admiral meine Befehle empfangen und meine Ordres ausgegeben
 hatte, setzten wir mit den Booten ab, die Dampfpinnassen, mit Revolverkanonen
 armirt, vorweg, die anderen Boote im Schlepptau.<br /><br />
+
 :::
 
 
@@ -214,6 +215,7 @@ armirt, vorweg, die anderen Boote im Schlepptau.<br /><br />
 :::: { .fs-l .align-center }
 **Chef-Boot.**
 ::::
+
 :::: align-center
 Dampfpinnaß S. M. S. „Leipzig“.
 ::::
@@ -287,6 +289,7 @@ Oberstabsarzt Dr. Groppe.
 
 
 <br /><br />
+
 ::: justified
 
 Die auf der Karte mit 4 bezeichnete Stelle, wo Sandstrand und meist
