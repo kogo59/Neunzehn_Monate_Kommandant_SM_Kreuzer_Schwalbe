@@ -195,7 +195,7 @@ Gebotene wird hier sehr anerkannt.
 
 Nun, kurzum, besten Dank für liebe Briefe!
 
-Jetzt ist. gar nicht mehr aus der Post klug zu werden, da die englische Post
+Jetzt ist gar nicht mehr aus der Post klug zu werden, da die englische Post
 anders fahren will, aber noch kurioser wie früher. Trotzdem gelang es am 23.
 einem Dampfer, hier anzukommen. Er erlaubte sich, wie schon so häufig, einen
 kleinen Spaß mit mir, d. h. in dem Postsack war nur 1 Brief von Euch, aber nach
