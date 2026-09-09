@@ -1,4 +1,4 @@
-# <small>*Aden*,<br />den 21. Dezember 1888.</small><br />
+# <small>*Aden*, den 21. Dezember 1888.</small>
 
 ::: justified
 

@@ -1,4 +1,4 @@
-# <small>*Mittelmeer,*<br />den 6. Dezember 1888.</small><br />
+# <small>*Mittelmeer,* den 6. Dezember 1888.</small>
 
 ::: justified
 

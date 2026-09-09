@@ -1,4 +1,4 @@
-# <small>*Kokotoni,*<br />den 19. September 1889.</small><br />
+# <small>*Kokotoni,* den 19. September 1889.</small>
 
 ::: justified 
 

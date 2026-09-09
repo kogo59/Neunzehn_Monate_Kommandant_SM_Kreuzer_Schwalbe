@@ -1,4 +1,4 @@
-# <small>*Zanzibar*,<br /> den 12. März 1889.</small><br />
+# <small>*Zanzibar*, den 12. März 1889.</small>
 
 ::: justified
 

@@ -1,4 +1,4 @@
-# <small>*Bagamoyo*,<br /> den 8. April 1889.</small><br />
+# <small>*Bagamoyo*, den 8. April 1889.</small>
 
 ::: justified
 

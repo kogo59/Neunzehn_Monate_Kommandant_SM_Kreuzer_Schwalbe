@@ -1,4 +1,4 @@
-# <small>*Gibraltar,*<br />den 1. Dezember 1888.</small><br />
+# <small>*Gibraltar,* den 1. Dezember 1888.</small>
 
 ::: justified
 

@@ -518,7 +518,7 @@ gesagt: „Wir müssen ziehen.“ Kaum sei er wieder in seiner Hütte angekommen
 wären auch schon Schüsse gefallen.
 
 :::: {.wrap-80 .align-center .caption}
-![Buschiris Hinrichtung.](Schwalbe_167c.jpg "Buschiris Hinrichtung."){#b166}
+![Buschiris Hinrichtung.](Schwalbe_167c.jpg "Buschiris Hinrichtung."){#b167}
 ::::
 
 Er entkam, aber ohne Waffen und Anhang; so faßten denn die Bewohner eines

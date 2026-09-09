@@ -5,15 +5,15 @@ Kommandant S.M. Kreuzer „Schwalbe“.
 <br />
 ::::
 
-:::: {.wrap-10 .float-left }
+:::: {.w-10 .float-left }
 ![&nbsp;](logo1.jpg ""){#b001}
 ::::
 
-:::: { .fs-jumbo }
+:::: { .fs-jumbo .align-center}
 Neunzehn Monate
 ::::
 
-:::: { .fs-jumbo }
+:::: { .fs-jumbo .align-center}
 Kommandant S.M. Kreuzer „Schwalbe“<br />
 ::::
 

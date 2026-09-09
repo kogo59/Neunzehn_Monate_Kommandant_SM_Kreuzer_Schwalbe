@@ -1,4 +1,4 @@
-# <small>*Port Louis (Mauritius).*<br />Dienstag, den 23. Juli 1889.</small><br />
+# <small>*Port Louis (Mauritius).* Dienstag, den 23. Juli 1889.</small>
 
 ::: justified 
 
@@ -60,7 +60,7 @@ welcher jetzt französisch sprechen muß.
 
 :::
 
-# <small>*Port Louis (Mauritius).*<br />Dienstag, den 10. August 1889.</small><br />
+# <small>*Port Louis (Mauritius).* Dienstag, den 10. August 1889.</small>
 
 ::: justified
 

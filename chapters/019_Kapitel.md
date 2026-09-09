@@ -1,4 +1,4 @@
-# <small>*Blockade-Revier Nord-Zanzibar.*<br />Sonnabend, den 1. Juni 1889.</small><br />
+# <small>*Blockade-Revier Nord-Zanzibar.* Sonnabend, den 1. Juni 1889.</small>
 
 ::: justified 
 

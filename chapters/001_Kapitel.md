@@ -1,4 +1,4 @@
-# <small>*Bay von Biskaya.*<br /> Dienstag, den 27. November 1888.</small><br />
+# <small>*Bay von Biskaya*, Dienstag, den 27. November 1888.</small>
 
 :::: {.wrap-100 .align-center }
 ![&nbsp;](logo2.jpg ""){#b000}

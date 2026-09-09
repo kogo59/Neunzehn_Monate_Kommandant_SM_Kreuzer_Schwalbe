@@ -1,4 +1,4 @@
-# <small>*Indischer Ozean*,<br />den 26. Dezember 1888.</small><br />
+# <small>*Indischer Ozean*, den 26. Dezember 1888.</small>
 
 ::: justified
 

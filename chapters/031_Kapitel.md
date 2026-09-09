@@ -600,7 +600,7 @@ der Stadt vorzugehen, indeß die Geschütze den Feind von dem im Süden gelegene
 Singino-Hügel vertrieben.
 
 Um 8 Uhr 10 Minuten übernahm ich das Kommando der vereinigten Bootsabtheilungen
-S. M. SS. „Carola“ und „Schwalbe“.
+S. M. SS. „Carola“ und „Schwalbe“.<br /><br />
 
 :::: {.align-center .fs-xl}
 Ordre de Bataille der Bootsdivision.

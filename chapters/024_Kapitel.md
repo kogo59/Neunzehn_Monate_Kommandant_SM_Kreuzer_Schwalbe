@@ -1,4 +1,4 @@
-# <small>*Zanzibar,*<br />den 1. Oktober 1889.</small><br />
+# <small>*Zanzibar,* den 1. Oktober 1889.</small>
 
 ::: justified 
 
@@ -15,7 +15,7 @@ Soeben heißt „Pfeil“ seinen 70 Meter langen Heimathswimpel —!
 
 :::
 
-# <small>*Zanzibar,*<br />den 5. Oktober 1889.</small><br />
+# <small>*Zanzibar,* den 5. Oktober 1889.</small>
 
 ::: justified 
 
@@ -54,7 +54,7 @@ Admiral Deinhard will Mitte des Monats von Kapstadt zurückkommen.
 :::
 
 
-# <small>An Bord H. M. S. „Boadicea“,<br />den 6. Oktober 1889.</small><br />
+# <small>An Bord H. M. S. „Boadicea“, den 6. Oktober 1889.</small>
 
 ::: justified
 

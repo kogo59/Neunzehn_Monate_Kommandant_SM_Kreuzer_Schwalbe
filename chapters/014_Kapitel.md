@@ -1,4 +1,4 @@
-# <small>*Shungu-Bay*,<br /> den 20. März 1889.</small><br />
+# <small>*Shungu-Bay*, den 20. März 1889.</small>
 
 ::: justified
 

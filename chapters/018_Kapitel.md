@@ -1,4 +1,4 @@
-# <small>*Kokotoni*,<br /> den 12. Mai 1889.</small><br />
+# <small>*Kokotoni*, den 12. Mai 1889.</small>
 
 ::: { .justified }
 

@@ -1,4 +1,4 @@
-# <small>*Blockade-Station Nord-Mafia*,<br /> den 19. Januar 1889.</small><br />
+# <small>*Blockade-Station Nord-Mafia*, den 19. Januar 1889.</small>
 
 :::: {.wrap-100 .align-center .caption}
 ![&nbsp;](Schwalbe_032.jpg ""){#b032}

@@ -1,4 +1,4 @@
-# <small>*Suez-Kanal.*<br />Mittwoch, den 12. Dezember 1888.</small><br />
+# <small>*Suez-Kanal.* Mittwoch, den 12. Dezember 1888.</small>
 
 ::: justified
 
